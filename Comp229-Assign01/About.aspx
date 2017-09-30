@@ -7,7 +7,7 @@
 	<link href="StyleSheet.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
     	.auto-style2 {
-			width: 192px;
+			width: 225px;
 			text-align: right;
 			font-size: small;
 			font-weight: bold;
@@ -30,7 +30,7 @@
 			 <td class="auto-style5"><span>Highly motivated, hardworking individual proficient in various software languages and applications with 4 years of customer service experience.<br />
 				 <br />
 				 <%--Github logo source: https://github.com/--%>
-				 <a href="https://github.com/SNandalan"><img src="Images/Octocat.png" width= "110px" height= "100px" alt="Github Logo" title="Github Link"></a>
+				 <a href="https://github.com/SNandalan"><img src="Images/Octocat.png" width= "115px" height= "100px" alt="Github Logo" title="Github Link"></a>
 				 </td>
 		 </tr>
 		 <tr>
@@ -44,39 +44,33 @@
 		 </tr>
 		 <tr>
 			 <td class="auto-style2">TECHNICAL SKILLS:</td>
-			 <td>
-				 <table class="nav-justified">
-					 <tr>
-						 <td>&nbsp;</td>
-						 <td>&nbsp;</td>
-					 </tr>
-					 <tr>
-						 <td>&nbsp;</td>
-						 <td>&nbsp;</td>
-					 </tr>
-					 <tr>
-						 <td>&nbsp;</td>
-						 <td>&nbsp;</td>
-					 </tr>
-					 <tr>
-						 <td>&nbsp;</td>
-						 <td>&nbsp;</td>
-					 </tr>
-					 <tr>
-						 <td>&nbsp;</td>
-						 <td>&nbsp;</td>
-					 </tr>
-					 <tr>
-						 <td>&nbsp;</td>
-						 <td>&nbsp;</td>
-					 </tr>
-				 </table>
+			 <td class="auto-style5">
+				 <strong>Programming Language/ Software</strong>: C#, Eclipse, Visual Studio, Git Web Design: JavaScript, HTML/XML and CSS
+				 <br />
+				 <strong>Databases</strong>: MySQL, Oracle, Microsoft SQL Server
+				 <br />
+				 <strong>Operating System</strong>: Windows, Linux/Unix
+				 <br />
+				 <strong>Other</strong>: Extensive knowledge in Microsoft Office incl. Word, Excel, PowerPoint, Access
 			 </td>
 		 </tr>
 		 <tr>
 			 <td class="auto-style2">WORK EXPERIENCE:</td>
-			 <td>
-				 &nbsp;</td>
+			 <td class="auto-style5">
+				 Sales Associate Jan. 2014 - Present
+				 <br />
+				 The Home Depot, Caledonia, Toronto, ON
+				 <br />
+				 Department: Electrical, Paints.<br />
+				 Provide exceptional customer service by directing customers to products, answering questions and assisting in purchase decisions.<br />
+				 Acquired knowledge of electrical and paints products quickly to effectively help customers. Stocking, organizing and cleaning the department.
+				 <br />
+				 <br />
+				 Sales Associate Jan. 2014 - Present
+				 <br />
+				 The Home Depot, Caledonia, Toronto, ON
+				 <br />
+				 Department: Electrical, Paints • Provide exceptional customer service by directing customers to products, answering questions and assisting in purchase decisions. • Acquired knowledge of electrical and paints products quickly to effectively help customers. • Stocking, organizing and cleaning the department. Cashier Mar. 2013 - Dec. 2013 The Home Depot, Caledonia, Toronto, ON • Handled cash transactions accurately and efficiently. • Maintain current knowledge of all promotions, policies and procedures affecting the Front End. </td>
 		 </tr>
 		 <tr>
 			 <td class="auto-style2">INTERESTS AND HOBBIES</td>
