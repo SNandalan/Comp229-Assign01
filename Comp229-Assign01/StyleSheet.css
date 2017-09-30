@@ -7,3 +7,8 @@
 	border-width: 5px;
 	border-color: Indigo;
 }
+.footer {
+	border-style: none none solid none;
+	border-width: 5px;
+	border-color: Indigo;
+}

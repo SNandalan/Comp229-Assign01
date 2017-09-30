@@ -61,9 +61,6 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
-            <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Sushmita Nandalan - COMP229 - Fall 2017</p>
-            </footer>
         </div>
 
     </form>
