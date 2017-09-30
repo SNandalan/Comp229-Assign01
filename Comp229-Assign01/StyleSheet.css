@@ -1,0 +1,9 @@
+﻿body {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	background-color: #E6E6E6;
+}
+.main {
+	border-style: solid none solid none;
+	border-width: 5px;
+	border-color: Indigo;
+}
