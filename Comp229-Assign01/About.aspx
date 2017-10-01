@@ -34,6 +34,9 @@ Date: 30th September 2017--%>
 			font-weight: normal;
 			color: #4B0082;
 		}
+    	.auto-style10 {
+			font-size: 11pt;
+		}
     </style>
 </head>
 <div id="allPage" style="width:1080px; margin-left:auto; margin-right:auto;">
@@ -136,8 +139,7 @@ Date: 30th September 2017--%>
 		
    </div>
 	<footer class="main">
-		<br />
-         <p>&copy; <%: DateTime.Now.Year %> - Sushmita Nandalan - COMP229 - Fall 2017</p>
+         <p>&copy;<span class="auto-style10">- Sushmita Nandalan - COMP229 - Fall 2017</span></p>
     </footer>
 	</div>
 </asp:Content>

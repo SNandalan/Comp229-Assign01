@@ -11,6 +11,13 @@
 .auto-style1 {
 	width: 261px;
 }
-a:hover {
-	background-color: #E6E6FA;
+.button {
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-width: 2px;
+}
+.button:hover{
+	background-color: indigo;
+	text-emphasis-color: #FFFFFF;
+
 }

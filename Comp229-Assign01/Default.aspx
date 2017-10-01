@@ -10,6 +10,9 @@ Date: 30th September 2017--%>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 	<link href="StyleSheet.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
+    	.auto-style2 {
+			font-size: 11pt;
+		}
     </style>
 </head>
 <div id="allPage" style="width:1080px; margin-left:auto; margin-right:auto;">
@@ -24,10 +27,10 @@ Date: 30th September 2017--%>
 		<p class="text-center"><a href="About.aspx"><img src="Images/resume.png" width= "100px" height= "100px" alt="resume image" title="Resume"></a>
 			&nbsp&nbsp<a href="Contact.aspx"><img src="Images/contact.png" width= "100px" height= "100px" alt="contact image" title="Contact"></a>
 		</p>
-	</p></div>
+	</p>
+	</div>
 	<footer class="main">
-		<br />
-         <p>&copy; <%: DateTime.Now.Year %> - Sushmita Nandalan - COMP229 - Fall 2017</p>
+         <p>&copy;<span class="auto-style2">- Sushmita Nandalan - COMP229 - Fall 2017</span></p>
     </footer>
 	</div>
 

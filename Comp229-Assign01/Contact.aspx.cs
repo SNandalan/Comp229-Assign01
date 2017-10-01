@@ -13,5 +13,9 @@ namespace Comp229_Assign01
 		{
 
 		}
+
+		protected void Submit_Click(object sender, EventArgs e)
+		{
+		}
 	}
 }
