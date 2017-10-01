@@ -50,8 +50,9 @@ Date: 30th September 2017--%>
 		 <tr>
 			 <td class="auto-style2"><img src="Images/SN.jpg" width= "150px" height= "265px" alt="Sushmita Nandalan" title="Sushmita Nandalan">&nbsp;</td>
 			 <td class="auto-style5"><span>Highly motivated, hardworking individual proficient in various software languages and applications with 4 years of customer service experience.<br />
+				 My mission as a software developer is to solve real life and business problems. I apply analytical thinking to problems and communicate clearly and proactively.
 				 <br />
-				 To view my projects please click on the link below<br />
+				 To view projects i have worked on please click on the link below<br />
 				 <%--Github logo source: https://github.com/--%>
 				 <a href="https://github.com/SNandalan"><img src="Images/Octocat.png" width= "115px" height= "100px" alt="Github Logo" title="Github Link"></a>
 				 </td>
