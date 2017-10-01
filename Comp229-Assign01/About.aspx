@@ -5,7 +5,7 @@ Student no: 300923159
 Date: 30th September 2017--%>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-<head>
+	<head>
 	<meta content="en-us" http-equiv="Content-Language">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 	<link href="StyleSheet.css" rel="stylesheet" type="text/css">
