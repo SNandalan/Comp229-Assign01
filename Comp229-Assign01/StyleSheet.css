@@ -3,12 +3,7 @@
 	background-color: #E6E6E6;
 }
 .main {
-	border-style: solid none solid none;
-	border-width: 5px;
-	border-color: Indigo;
-}
-.footer {
-	border-style: none none solid none;
+	border-style: solid none none none;
 	border-width: 5px;
 	border-color: Indigo;
 }

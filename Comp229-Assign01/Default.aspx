@@ -1,5 +1,9 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Comp229_Assign01._Default" %>
 
+<%--Author: Sushmita Nandalan
+Student no: 300923159
+Date: 30th September 2017--%>
+
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 	<head>
 	<meta content="en-us" http-equiv="Content-Language">
